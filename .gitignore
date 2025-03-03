@@ -1,0 +1,5 @@
+.venv
+.env
+solana_ids.xlsx
+teste.py
+__pycache__
